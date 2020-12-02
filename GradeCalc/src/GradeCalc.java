@@ -21,7 +21,7 @@ public static void main(String[] args) {
 	float inLecture = sc.nextFloat();
 	
 	String letterGrade = letterGrade(overallCalc(midterm, essay, discussion, inLecture));
-	System.out.println("Your lettergrade is " + letterGrade1);
+	System.out.println("Your lettergrade is " + letterGrade);
 	
 }
 
