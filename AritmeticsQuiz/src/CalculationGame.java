@@ -27,7 +27,7 @@ public class CalculationGame {
 	
 	public void start() {
 		
-		BaseOps[] operations = new BaseOps[] {new Multiplication(), new Division(), new Addition(), new Subtraction()};
+		BaseOps[] operations = new BaseOps[] {new Multiplication(), new Division(), new Addition(), new Subtraction(), new ModAlma()};
 		Random rnd = new Random();
 		Scanner sc = new Scanner(System.in);
 		

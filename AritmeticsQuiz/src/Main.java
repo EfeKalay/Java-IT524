@@ -9,7 +9,6 @@ public class Main {
 		int numQuestions = sc.nextInt();
 		CalculationGame game = new CalculationGame(numQuestions);
 		game.start();
-
 	}
 
 }
